@@ -1,0 +1,19 @@
+{
+  "name": "marketplaceofideas",
+  "version": "1.0.0",
+  "description": "Idea site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TariqSadat/Marketplace-of-Ideas.git"
+  },
+  "author": "Tariq Sadat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TariqSadat/Marketplace-of-Ideas/issues"
+  },
+  "homepage": "https://github.com/TariqSadat/Marketplace-of-Ideas#readme"
+}
